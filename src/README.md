@@ -1,7 +1,7 @@
 # DcardInternHw
 
 ## Python code
-<li> <b>model.ipynb</b>
+<li> <b>/src/model.ipynb</b>
 <li> 根據檔案內所import的package安裝環境
 <li> torch version = 1.12.1+cu113
 <li> cuda version = 11.3
